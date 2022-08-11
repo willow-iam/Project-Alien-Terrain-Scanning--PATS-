@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de17e07392346574981b8123f4aab6bd
+timeCreated: 1520610698
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - monsterPrefab: {fileID: 114044408138122452, guid: 95e87eec75cf30945bf0153726423a92,
+      type: 2}
+  - fightPartyPrefab: {fileID: 114000010657430390, guid: 8f791a9d35e60614b800e97f0f385cdc,
+      type: 2}
+  - music: {instanceID: 0}
+  executionOrder: 50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
